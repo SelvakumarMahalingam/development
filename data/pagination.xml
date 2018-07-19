@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pagination>
+    <table id="Clinic">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+            <page>11</page>
+            <page>12</page>
+            <page>13</page>
+            <page>14</page>
+            <page>15</page>
+            <page>16</page>
+            <page>17</page>
+            <page>18</page>
+            <page>19</page>
+            <page>20</page>
+        </pages>
+    </table>
+    <table id="ClinicSearch">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+            <page>11</page>
+            <page>12</page>
+            <page>13</page>
+            <page>14</page>
+            <page>15</page>
+            <page>16</page>
+            <page>17</page>
+            <page>18</page>
+            <page>19</page>
+            <page>20</page>
+        </pages>
+    </table>
+    <table id="Archive">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+            <page>11</page>
+            <page>12</page>
+            <page>13</page>
+            <page>14</page>
+            <page>15</page>
+            <page>16</page>
+            <page>17</page>
+            <page>18</page>
+            <page>19</page>
+            <page>20</page>
+        </pages>
+    </table>
+    <table id="ArchiveSearch">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+            <page>11</page>
+            <page>12</page>
+            <page>13</page>
+            <page>14</page>
+            <page>15</page>
+            <page>16</page>
+            <page>17</page>
+            <page>18</page>
+            <page>19</page>
+            <page>20</page>
+        </pages>
+    </table>
+    <table id="PostID">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+        </pages>
+    </table>
+    <table id="PostIDSearch">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+        </pages>
+    </table>
+    <table id="ClinicID2">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+        </pages>
+    </table>
+    <table id="ClinicID2Search">
+        <max-deck-size>100</max-deck-size>
+        <page-size>50</page-size>
+        <min>1</min>
+        <max>0</max>
+        <total-records>0</total-records>
+        <total-pages>0</total-pages>
+        <current-page>1</current-page>
+        <previous-page/>
+        <last-page-view/>
+        <fixed_page_view>5</fixed_page_view>
+        <page_view_first_index default="1">1</page_view_first_index>
+        <page_view_last_index default="10">10</page_view_last_index>
+        <pages>
+            <page>1</page>
+            <page>2</page>
+            <page>3</page>
+            <page>4</page>
+            <page>5</page>
+            <page>6</page>
+            <page>7</page>
+            <page>8</page>
+            <page>9</page>
+            <page>10</page>
+        </pages>
+    </table>
+</pagination>

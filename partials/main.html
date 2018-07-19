@@ -1,0 +1,34 @@
+<div class="col-md-11" ng-cloak="">
+    <md-card>
+        <md-card-title>
+            <md-card-title-text>
+                <span class="md-headline">Clinic Management</span>
+                mainpage
+            </md-card-title-text>
+        </md-card-title>
+        <md-card-content>
+            <md-tabs md-dynamic-height="" md-border-bottom="">
+                <md-tab label="Clinic">
+                    <div ng-include="" src="'partials/_master.html'"/>
+                </md-tab>
+                <md-tab label="upload">
+                    <div ng-include="" src="'partials/_upload.html'"/>
+                </md-tab>
+                <md-tab label="change log">
+                    <div ng-include="" src="'partials/_changeLog.html'"/>
+                </md-tab>
+                <md-tab label="archive">
+                    <div ng-include="" src="'partials/_archive.html'"/>
+                </md-tab>
+            </md-tabs>
+        </md-card-content>
+    </md-card>
+</div>
+
+      
+    </script>
+  </head>
+  <body>
+    <div ng-view></div>
+  </body>
+</html>

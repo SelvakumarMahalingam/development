@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+    <head>
+        <title>Clinic Info</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <!-- Library Styles and Scriptd -->
+        
+        <link rel="stylesheet" href="resource/lib/angular-material/angular-material.min.css"/>
+        <link rel="stylesheet" href="resource/lib/angular-flash/angular-flash.min.css"/>
+        <link rel="stylesheet" href="resource/lib/angular-data-table/md-data-table.css"/>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
+        
+        
+        
+        <script type="text/javascript" src="resource/lib/jquery/jquery-1.11.3.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular/angular.js"></script>
+        <script type="text/javascript" src="resource/lib/angular/angular-animate.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular/angular-aria.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular/angular-messages.js"></script>
+        <script type="text/javascript" src="resource/lib/angular/angular-sanitize.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular-material/angular-material.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular/angular-ui-router.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular-flash/angular-flash.min.js"></script>
+        <script type="text/javascript" src="resource/lib/angular-data-table/md-data-table.js"></script>
+        <script type="text/javascript" src="resource/lib/readmore/readmore.min.js"></script>
+        <script type="text/javascript" src="resource/lib/fileUpload/fileupload.js"></script>
+        <script type="text/javascript" src="resource/lib/clonejson.js"></script>
+        <script type="text/javascript" src="resource/lib/papaparser/papaparser.js"></script>
+        <script src="resource/lib/xml2json.js"></script>
+        <link rel="stylesheet" href="resource/lib/slick/slick.css"/>
+        <link rel="stylesheet" href="resource/lib/slick/slick-theme.css"/>
+        <script src="resource/lib/slick/slick.min.js"></script>
+        <script src="resource/lib/slick/angular_slick.js"></script>
+<!--     <script src="http://maps.google.com/maps/api/js"></script>-->
+        <script src="resource/lib/map/googleAPI.js"></script>
+        <script src="resource/lib/map/ng-map.js"></script>
+        
+    <!-- User Defeined Styles and Scriptd -->
+        <link rel="stylesheet" href="resource/css/styles.css"/>
+        <script type="text/javascript" src="resource/js/app.js"></script>
+        <script type="text/javascript" src="resource/js/controllers.js"></script>
+        <script type="text/javascript" src="resource/js/services.js"></script>
+    </head>
+    <body>
+	
+    <!-- ur code here -->
+        <div class="container">
+            <div class="row" ng-cloak="" ng-app="clinicInfo" ng-controller="ParentController">
+                <div class="col-md-12">
+                    <div flash-message="5000"></div>
+                    <md-progress-circular class="spinner" ng-show="loading != 0 " md-diameter="80" md-mode="indeterminate"></md-progress-circular>
+                    <div ui-view=""/>
+                </div>
+                   
+<!--<html ng-app="countryApp">
+  <head>
+    <meta charset="utf-8">
+    <title>Angular.js Example</title>-->
+<!--    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.10/angular.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.10/angular-route.min.js"></script>-->
+    
+    
+  <!-- </head> -->
+  
+            </div>
+        </div>
+    </body>
+</html>

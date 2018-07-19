@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div layout-padding="" layout="column">
+
+    <div id="map_canvas" ng-if="clinicInfo.location.map.latitude != '' &amp;&amp; clinicInfo.location.map.longitude != ''">
+        <map center="{{clinicInfo.location.map.latitude}},{{clinicInfo.location.map.longitude}}" zoom="15">
+            <marker position="{{clinicInfo.location.map.latitude}},{{clinicInfo.location.map.longitude}}"/>
+            <custom-marker id="foo" position="{{clinicInfo.location.map.latitude}},{{clinicInfo.location.map.longitude}}">
+                <md-card>
+                    <md-card-header>
+                        <md-card-avatar>
+                            <img ng-if="clinicInfo.logo == ''" ng-src="./homeDownload?clinicImg/default-clinic.png"/>
+                            <img ng-if="clinicInfo.logo != ''" ng-src="./homeDownload?clinicImg/{{clinicInfo.logo}}"/>
+                        </md-card-avatar>
+                        <md-card-header-text>
+                            <span class="md-title">{{clinicInfo.name}}</span>
+                            <span class="md-subhead">{{clinicInfo.location.address.city}}</span>
+                        </md-card-header-text>
+                    </md-card-header>
+                </md-card>
+            </custom-marker>
+        </map>
+    </div>
+    <div layout="row" layout-xs="column">
+        <md-card ng-if="clinicInfo.location.busStation._bname != ''" flex="50" flex-xs="100" layout-padding="">
+            <md-card-title-text>
+                <span class="md-headline">Nearest Bus Station</span>
+            </md-card-title-text>
+            <md-card-content layout="row">
+                <div>
+
+                </div>
+                <div>
+                    <md-icon class="material-icons">directions_bus</md-icon> {{clinicInfo.location.busStation._bname}} Km - {{clinicInfo.location.busStation._bdistance}} Km
+                </div>
+            </md-card-content>
+        </md-card>
+        <md-card ng-if="clinicInfo.location.trainStation._tname != ''" flex="50" flex-xs="100" layout-padding="">
+            <md-card-title-text>
+                <span class="md-headline">Nearest Train Station</span>
+            </md-card-title-text>
+            <md-card-content layout="row">
+                <div>
+
+                </div>
+                <div>
+                    <md-icon class="material-icons">directions_transit</md-icon> {{clinicInfo.location.trainStation._tname}} - {{clinicInfo.location.trainStation._tdistance}}
+                </div>
+            </md-card-content>
+        </md-card>
+    </div>
+</div>

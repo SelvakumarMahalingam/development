@@ -1,0 +1,55 @@
+<md-card flex-gt-sm="80" ng-cloak="">
+    <div layout="row">
+        <div flex="90"/>
+        <md-button class="md-default md-raised" ui-sref="clinicInfo">Back</md-button>
+    </div>
+    <md-card-title layout-xs="column">
+        <md-card-title-media>
+            <div class="md-media-lg card-media">
+                <img ng-if="clinicInfo.logo == ''" ng-src="./homeDownload?clinicImg/default-clinic.png"/>
+                <img ng-if="clinicInfo.logo != ''" ng-src="./homeDownload?clinicImg/{{clinicInfo.logo}}"/>
+            </div>
+        </md-card-title-media>
+        <md-card-title-text layout-padding="">
+            <span class="md-headline">{{clinicInfo.name}}</span>
+            <span class="md-subhead">{{clinicInfo.categories.category}}</span>
+            <span class="md-subhead">
+            {{clinicInfo.location.address.line1}}
+             <span ng-if="clinicInfo.location.address.line2 != ''">, </span>
+             {{clinicInfo.location.address.line2}} 
+             </span>
+            <span class="md-subhead">
+            {{clinicInfo.location.address.line3}}
+            <span ng-if="clinicInfo.location.address.city != ''">, </span>
+            {{clinicInfo.location.address.city}}
+            </span>
+            <span class="md-subhead">
+            {{clinicInfo.location.address.state}}
+            <span ng-if="clinicInfo.location.address.pincode != '' ">- </span>
+            {{clinicInfo.location.address.pincode}}
+            </span>
+        </md-card-title-text>
+    </md-card-title>
+    <md-card-content>
+        <md-tabs md-dynamic-height="" md-border-bottom="">
+            <md-tab label="Overview">
+                <div ng-include="" src="makeurl+ 'partials/detailedview/_overview.html'"/>
+            </md-tab>
+            <md-tab label="Services" ng-if="clinicInfo.services.service[0] != ''">
+                <div ng-include="" src="makeurl+ 'partials/detailedview/_services.html'"/>
+            </md-tab>
+            <md-tab label="Specializations" ng-if="clinicInfo.specializations.specialization[0] != ''">
+                <div ng-include="" src="makeurl+ 'partials/detailedview/_specializations.html'"/>
+            </md-tab>
+            <md-tab label="Doctors" ng-if="clinicInfo.doctors.doctor.length &gt; 1">
+                <div ng-include="" src="makeurl+ 'partials/detailedview/_doctors.html'"/>
+            </md-tab>
+            <md-tab label="Photos" ng-if="clinicInfo.images.image.length &gt; 1">
+                <div ng-include="" src="makeurl+ 'partials/detailedview/_photos.html'"/>
+            </md-tab>
+            <md-tab label="Location" ng-if="clinicInfo.location.map.latitude != '' || clinicInfo.location.trainStation._tname != '' || clinicInfo.location.busStation._bname != ''">
+                <div ng-include="" src="makeurl+ 'partials/detailedview/_location.html'"/>
+            </md-tab>
+        </md-tabs>
+    </md-card-content>
+</md-card>

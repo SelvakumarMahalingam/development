@@ -1,0 +1,3748 @@
+<data>
+    <clinicInfo>
+        <active>true</active>
+        <id>5</id>
+        <name>fdsff</name>
+        <logo/>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <overview/>
+        <description/>
+        <images>
+            <image size="" />
+        </images>
+        <location type="dfdfdfd" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3942</id>
+        <name>veera</name>
+        <categories>
+            <category>veera</category>
+        </categories>
+        <description>veera</description>
+        <website>veera</website>
+        <overview>veera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>veera</line1>
+<line2>veera</line2>
+<line3>veera</line3>
+<town>veera</town>
+<district>veera</district>
+<city>veera</city>
+<state>veera</state>
+<pincode>veera</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>veera</latitude>
+                <longitude>veera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>veera</phone>
+            <mobile>veera</mobile>
+            <email>veera</email>
+            <fax>veera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3945</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3953</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+            <specialization>Mithun</specialization>
+        </specializations>
+        <services>
+            <service/>
+            <service name="MithunMithunMithunMithunMithunMithunMithunMithun" category="MithunMithunMithunMithunMithunMithunMithunMithun" type="MithunMithunMithunMithunMithunMithunMithun" />
+        </services>
+        <doctors>
+            <doctor/>
+            <doctor id="MithunMithunMithunMithunMithunMithunMithunMithunMithunMithunMithun" name="MithunMithunMithunMithunMithunMithunMithunMithunMithunMithunMithun" />
+        </doctors>
+        <name>Mano Mithun</name>
+        <categories>
+            <category>Mithun</category>
+        </categories>
+        <description>Mithun</description>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>Mithun</line1>
+<line2>MithunMithun</line2>
+<line3>Mithun</line3>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>102</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+            <specialization>dfdsf</specialization>
+        </specializations>
+        <services>
+            <service/>
+            <service name="dfd" category="fds" type="dfdf" />
+        </services>
+        <doctors>
+            <doctor/>
+            <doctor id="56" name="jtjtyj" />
+            <doctor id="555" name="nithiya" />
+        </doctors>
+        <name>suresh</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>101</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3943</id>
+        <name>dheera</name>
+        <categories>
+            <category>dheera</category>
+        </categories>
+        <description>dheera</description>
+        <website>dheera</website>
+        <overview>dheera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>dheera</line1>
+<line2>dheera</line2>
+<line3>dheera</line3>
+<town>dheera</town>
+<district>dheera</district>
+<city>dheera</city>
+<state>dheera</state>
+<pincode>dheera</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>dheera</latitude>
+                <longitude>dheera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>dheera</phone>
+            <mobile>dheera</mobile>
+            <email>dheera</email>
+            <fax>dheera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>tgffffffbvh</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>93</id>
+    </clinicInfo>
+    <clinicInfo>
+        <active>true</active>
+        <id>6</id>
+        <name>yyyyyyyy</name>
+        <logo/>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <overview/>
+        <description/>
+        <images>
+            <image size="" />
+        </images>
+        <location type="yyyyyyyyyyyyyyyy" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo>
+        <active>true</active>
+        <id>4</id>
+        <name>fdsfds</name>
+        <logo/>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <overview/>
+        <description/>
+        <images>
+            <image size="" />
+        </images>
+        <location type="dfdfdfdsf" place="dfdfds" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>nithiya666666</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>35</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>fthftft999999999999</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>34</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>dd</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="dd" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>37</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3585</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview/>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name>Sarah</name>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization>Sarah</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>mahesh.paraman</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>98</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3663</id>
+        <name>
+            <name>veera</name>
+        </name>
+        <categories>
+            <category>
+                <category>veera</category>
+            </category>
+        </categories>
+        <description>
+            <description>veera</description>
+        </description>
+        <website>
+            <website>veera</website>
+        </website>
+        <overview/>
+        <location type="" place="" distance="">
+            <address>
+<line1>
+<line1>veera</line1>
+</line1>
+<line2>
+<line2>veera</line2>
+</line2>
+<line3>
+<line3>veera</line3>
+</line3>
+<town>
+<town>veera</town>
+</town>
+<district>
+<district>veera</district>
+</district>
+<city>
+<city>veera</city>
+</city>
+<state>
+<state>veera</state>
+</state>
+<pincode>
+<pincode>veera</pincode>
+</pincode>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude>
+                    <latitude>veera</latitude>
+                </latitude>
+                <longitude>
+                    <longitude>veera</longitude>
+                </longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name>
+                <name>veera</name>
+            </name>
+            <phone>
+                <phone>veera</phone>
+            </phone>
+            <mobile>
+                <mobile>veera</mobile>
+            </mobile>
+            <email>
+                <email>veera</email>
+            </email>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization>
+                <specialization>veera</specialization>
+            </specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3662</id>
+        <name>
+            <name>Meera</name>
+        </name>
+        <categories>
+            <category>
+                <category>Meera</category>
+            </category>
+        </categories>
+        <description>
+            <description>Meera</description>
+        </description>
+        <website>
+            <website>Meera</website>
+        </website>
+        <overview/>
+        <location type="" place="" distance="">
+            <address>
+<line1>
+<line1>Meera</line1>
+</line1>
+<line2>
+<line2>Meera</line2>
+</line2>
+<line3>
+<line3>Meera</line3>
+</line3>
+<town>
+<town>Meera</town>
+</town>
+<district>
+<district>Meera</district>
+</district>
+<city>
+<city>Meera</city>
+</city>
+<state>
+<state>Meera</state>
+</state>
+<pincode>
+<pincode>Meera</pincode>
+</pincode>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude>
+                    <latitude>Meera</latitude>
+                </latitude>
+                <longitude>
+                    <longitude>Meera</longitude>
+                </longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name>
+                <name>Meera</name>
+            </name>
+            <phone>
+                <phone>Meera</phone>
+            </phone>
+            <mobile>
+                <mobile>Meera</mobile>
+            </mobile>
+            <email>
+                <email>Meera</email>
+            </email>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization>
+                <specialization>Meera</specialization>
+            </specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3661</id>
+        <name>
+            <name>Sarah</name>
+        </name>
+        <categories>
+            <category>
+                <category>Sarah</category>
+            </category>
+        </categories>
+        <description>
+            <description>Sarah</description>
+        </description>
+        <website>
+            <website>Sarah</website>
+        </website>
+        <overview/>
+        <location type="" place="" distance="">
+            <address>
+<line1>
+<line1>Sarah</line1>
+</line1>
+<line2>
+<line2>Sarah</line2>
+</line2>
+<line3>
+<line3>Sarah</line3>
+</line3>
+<town>
+<town>Sarah</town>
+</town>
+<district>
+<district>Sarah</district>
+</district>
+<city>
+<city>Sarah</city>
+</city>
+<state>
+<state>Sarah</state>
+</state>
+<pincode>
+<pincode>Sarah</pincode>
+</pincode>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude>
+                    <latitude>Sarah</latitude>
+                </latitude>
+                <longitude>
+                    <longitude>Sarah</longitude>
+                </longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name>
+                <name>Sarah</name>
+            </name>
+            <phone>
+                <phone>Sarah</phone>
+            </phone>
+            <mobile>
+                <mobile>Sarah</mobile>
+            </mobile>
+            <email>
+                <email>Sarah</email>
+            </email>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization>
+                <specialization>Sarah</specialization>
+            </specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>Anu mohan</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>97</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>hjbjhb</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3588</id>
+        <name>dheera</name>
+        <categories>
+            <category>dheera</category>
+        </categories>
+        <description>dheera</description>
+        <website>dheera</website>
+        <overview/>
+        <location type="" place="" distance="">
+            <address>
+<line1>dheera</line1>
+<line2>dheera</line2>
+<line3>dheera</line3>
+<town>dheera</town>
+<district>dheera</district>
+<city>dheera</city>
+<state>dheera</state>
+<pincode>dheera</pincode>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude>dheera</latitude>
+                <longitude>dheera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name>dheera</name>
+            <phone>dheera</phone>
+            <mobile>dheera</mobile>
+            <email>dheera</email>
+            <fax/>
+        </contactInfo>
+        <specializations>
+            <specialization>dheera</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>nithiyabala</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="nithiyabala" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>36</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name/>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="dfbf" place="dfdv" distance="">
+            <address>
+<line1>dfdfvfd</line1>
+<line2/>
+<line3>dfdfvfd</line3>
+<town/>
+<district>dfvvd</district>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>44</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>mmmmmmmmmmmmmmmmmm</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="hrtrh" place="trhhtr" distance="htrhtrh">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>39</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>qqqqqqqqqqqqqqqqqqqqq</name>
+        <categories>
+            <category>qqqqqqqqqqqqqq</category>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="qqqqqqqqqqq" place="qqqqqqqqqqqqqqqqq" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>38</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>jjjjjjjjjjjjjjjjjjjjjj</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>42</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>popppppopooppo</name>
+        <categories>
+            <category>popppppopooppo</category>
+        </categories>
+        <website>popppppopooppo</website>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="popppppopooppo" place="popppppopooppo" distance="popppppopooppo">
+            <address>
+<line1>popppppopooppo</line1>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>40</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>zzzzbbbb</name>
+        <categories>
+            <category/>
+        </categories>
+        <website/>
+        <description/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="zzz" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>41</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>manju</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>63</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+        <name>kumar</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <name/>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location type="" place="" distance="">
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation name="" distance="" />
+            <busStation name="" distance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>64</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4020</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4006</id>
+        <name>beni</name>
+        <categories>
+            <category>beni</category>
+        </categories>
+        <description>beni</description>
+        <website>beni</website>
+        <overview>beni</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>beni</line1>
+<line2>beni</line2>
+<line3>beni</line3>
+<town>beni</town>
+<district>beni</district>
+<city>beni</city>
+<state>beni</state>
+<pincode>beni</pincode>
+</address>
+            <trainStation tname="beni" tdistance="beni" />
+            <busStation bname="beni" bdistance="beni" />
+            <map>
+                <latitude>beni</latitude>
+                <longitude>beni</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>beni</phone>
+            <mobile>beni</mobile>
+            <email>beni</email>
+            <fax>beni</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3940</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3941</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>brrrrrrrrrrrrrr</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>fgf</line1>
+<line2>fgf</line2>
+<line3>gf</line3>
+<town>gfg</town>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="fgf" tdistance="fg" />
+            <busStation bname="fgf" bdistance="gfg" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>94</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>3944</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>raj</name>
+        <categories>
+            <category>fsdf</category>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>dsfd</line1>
+<line2>fdsf</line2>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>95</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>saravanan</name>
+        <categories>
+            <category>clinic</category>
+        </categories>
+        <description>clinic</description>
+        <website>Q</website>
+        <overview>Q</overview>
+        <contactInfo>
+            <phone>9090909090</phone>
+            <mobile>Q</mobile>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>CHENNIAI</line1>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>96</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4007</id>
+        <name>nisha</name>
+        <categories>
+            <category>nisha</category>
+        </categories>
+        <description>nisha</description>
+        <website>nisha</website>
+        <overview>nisha</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>nisha</line1>
+<line2>nisha</line2>
+<line3>nisha</line3>
+<town>nisha</town>
+<district>nisha</district>
+<city>nisha</city>
+<state>nisha</state>
+<pincode>nisha</pincode>
+</address>
+            <trainStation tname="nisha" tdistance="nisha" />
+            <busStation bname="nisha" bdistance="nisha" />
+            <map>
+                <latitude>nisha</latitude>
+                <longitude>nisha</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>nisha</phone>
+            <mobile>nisha</mobile>
+            <email>nisha</email>
+            <fax>nisha</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4005</id>
+        <name>meena</name>
+        <categories>
+            <category>meena</category>
+        </categories>
+        <description>meena</description>
+        <website>meena</website>
+        <overview>meena</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>meena</line1>
+<line2>meena</line2>
+<line3>meena</line3>
+<town>meena</town>
+<district>meena</district>
+<city>meena</city>
+<state>meena</state>
+<pincode>meena</pincode>
+</address>
+            <trainStation tname="meena" tdistance="meena" />
+            <busStation bname="meena" bdistance="meena" />
+            <map>
+                <latitude>meena</latitude>
+                <longitude>meena</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>meena</phone>
+            <mobile>meena</mobile>
+            <email>meena</email>
+            <fax>meena</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4384</id>
+        <name>XXXX</name>
+        <categories>
+            <category>XXXX</category>
+        </categories>
+        <description>XXXX</description>
+        <website>XXXX</website>
+        <overview>XXXX</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>XXXX</line1>
+<line2>XXXX</line2>
+<line3>XXXX</line3>
+<town>XXXX</town>
+<district>XXXX</district>
+<city>XXXX</city>
+<state>XXXX</state>
+<pincode>XXXX</pincode>
+</address>
+            <trainStation tname="XXXX" tdistance="XXXX" />
+            <busStation bname="XXXX" bdistance="XXXX" />
+            <map>
+                <latitude>XXXX</latitude>
+                <longitude>XXXX</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>XXXX</phone>
+            <mobile>XXXX</mobile>
+            <email>XXXX</email>
+            <fax>XXXX</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4385</id>
+        <name>CCCC</name>
+        <categories>
+            <category>CCCC</category>
+        </categories>
+        <description>CCCC</description>
+        <website>CCCC</website>
+        <overview>CCCC</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>CCCC</line1>
+<line2>CCCC</line2>
+<line3>CCCC</line3>
+<town>CCCC</town>
+<district>CCCC</district>
+<city>CCCC</city>
+<state>CCCC</state>
+<pincode>CCCC</pincode>
+</address>
+            <trainStation tname="CCCC" tdistance="CCCC" />
+            <busStation bname="CCCC" bdistance="CCCC" />
+            <map>
+                <latitude>CCCC</latitude>
+                <longitude>CCCC</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>CCCC</phone>
+            <mobile>CCCC</mobile>
+            <email>CCCC</email>
+            <fax>CCCC</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4386</id>
+        <name>FFFF</name>
+        <categories>
+            <category>FFFF</category>
+        </categories>
+        <description>FFFF</description>
+        <website>FFFF</website>
+        <overview>FFFF</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>FFFF</line1>
+<line2>FFFF</line2>
+<line3>FFFF</line3>
+<town>FFFF</town>
+<district>FFFF</district>
+<city>FFFF</city>
+<state>FFFF</state>
+<pincode>FFFF</pincode>
+</address>
+            <trainStation tname="FFFF" tdistance="FFFF" />
+            <busStation bname="FFFF" bdistance="FFFF" />
+            <map>
+                <latitude>FFFF</latitude>
+                <longitude>FFFF</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>FFFF</phone>
+            <mobile>FFFF</mobile>
+            <email>FFFF</email>
+            <fax>FFFF</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4328</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="Sarah" tdistance="Sarah" />
+            <busStation bname="Sarah" bdistance="Sarah" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4269</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+            <specialization>PreethiPreethiPreethiPreethiPreethi</specialization>
+        </specializations>
+        <services>
+            <service/>
+            <service name="PreethiPreethi" category="PreethiPreethi" type="PreethiPreethi" />
+        </services>
+        <doctors>
+            <doctor/>
+            <doctor id="PreethiPreethiPreethi" name="PreethiPreethiPreethi" />
+        </doctors>
+        <name>Preethi</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>Preethi</line1>
+<line2>Preethi</line2>
+<line3>Preethi</line3>
+<town>Preethi</town>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>115</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4268</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="Sarah" tdistance="Sarah" />
+            <busStation bname="Sarah" bdistance="Sarah" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4300</id>
+        <name>veera</name>
+        <categories>
+            <category>veera</category>
+        </categories>
+        <description>veera</description>
+        <website>veera</website>
+        <overview>veera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>veera</line1>
+<line2>veera</line2>
+<line3>veera</line3>
+<town>veera</town>
+<district>veera</district>
+<city>veera</city>
+<state>veera</state>
+<pincode>veera</pincode>
+</address>
+            <trainStation tname="veera" tdistance="veera" />
+            <busStation bname="veera" bdistance="veera" />
+            <map>
+                <latitude>veera</latitude>
+                <longitude>veera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>veera</phone>
+            <mobile>veera</mobile>
+            <email>veera</email>
+            <fax>veera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4299</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4298</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="Sarah" tdistance="Sarah" />
+            <busStation bname="Sarah" bdistance="Sarah" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4286</id>
+        <name>dheera</name>
+        <categories>
+            <category>dheera</category>
+        </categories>
+        <description>dheera</description>
+        <website>dheera</website>
+        <overview>dheera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>dheera</line1>
+<line2>dheera</line2>
+<line3>dheera</line3>
+<town>dheera</town>
+<district>dheera</district>
+<city>dheera</city>
+<state>dheera</state>
+<pincode>dheera</pincode>
+</address>
+            <trainStation tname="dheera" tdistance="dheera" />
+            <busStation bname="dheera" bdistance="dheera" />
+            <map>
+                <latitude>dheera</latitude>
+                <longitude>dheera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>dheera</phone>
+            <mobile>dheera</mobile>
+            <email>dheera</email>
+            <fax>dheera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4285</id>
+        <name>veera</name>
+        <categories>
+            <category>veera</category>
+        </categories>
+        <description>veera</description>
+        <website>veera</website>
+        <overview>veera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>veera</line1>
+<line2>veera</line2>
+<line3>veera</line3>
+<town>veera</town>
+<district>veera</district>
+<city>veera</city>
+<state>veera</state>
+<pincode>veera</pincode>
+</address>
+            <trainStation tname="veera" tdistance="veera" />
+            <busStation bname="veera" bdistance="veera" />
+            <map>
+                <latitude>veera</latitude>
+                <longitude>veera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>veera</phone>
+            <mobile>veera</mobile>
+            <email>veera</email>
+            <fax>veera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4283</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="Sarah" tdistance="Sarah" />
+            <busStation bname="Sarah" bdistance="Sarah" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4284</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4270</id>
+        <name>veera</name>
+        <categories>
+            <category>veera</category>
+        </categories>
+        <description>veera</description>
+        <website>veera</website>
+        <overview>veera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>veera</line1>
+<line2>veera</line2>
+<line3>veera</line3>
+<town>veera</town>
+<district>veera</district>
+<city>veera</city>
+<state>veera</state>
+<pincode>veera</pincode>
+</address>
+            <trainStation tname="veera" tdistance="veera" />
+            <busStation bname="veera" bdistance="veera" />
+            <map>
+                <latitude>veera</latitude>
+                <longitude>veera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>veera</phone>
+            <mobile>veera</mobile>
+            <email>veera</email>
+            <fax>veera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4271</id>
+        <name>dheera</name>
+        <categories>
+            <category>dheera</category>
+        </categories>
+        <description>dheera</description>
+        <website>dheera</website>
+        <overview>dheera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>dheera</line1>
+<line2>dheera</line2>
+<line3>dheera</line3>
+<town>dheera</town>
+<district>dheera</district>
+<city>dheera</city>
+<state>dheera</state>
+<pincode>dheera</pincode>
+</address>
+            <trainStation tname="dheera" tdistance="dheera" />
+            <busStation bname="dheera" bdistance="dheera" />
+            <map>
+                <latitude>dheera</latitude>
+                <longitude>dheera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>dheera</phone>
+            <mobile>dheera</mobile>
+            <email>dheera</email>
+            <fax>dheera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4314</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4315</id>
+        <name>veera</name>
+        <categories>
+            <category>veera</category>
+        </categories>
+        <description>veera</description>
+        <website>veera</website>
+        <overview>veera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>veera</line1>
+<line2>veera</line2>
+<line3>veera</line3>
+<town>veera</town>
+<district>veera</district>
+<city>veera</city>
+<state>veera</state>
+<pincode>veera</pincode>
+</address>
+            <trainStation tname="veera" tdistance="veera" />
+            <busStation bname="veera" bdistance="veera" />
+            <map>
+                <latitude>veera</latitude>
+                <longitude>veera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>veera</phone>
+            <mobile>veera</mobile>
+            <email>veera</email>
+            <fax>veera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4316</id>
+        <name>dheera</name>
+        <categories>
+            <category>dheera</category>
+        </categories>
+        <description>dheera</description>
+        <website>dheera</website>
+        <overview>dheera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>dheera</line1>
+<line2>dheera</line2>
+<line3>dheera</line3>
+<town>dheera</town>
+<district>dheera</district>
+<city>dheera</city>
+<state>dheera</state>
+<pincode>dheera</pincode>
+</address>
+            <trainStation tname="dheera" tdistance="dheera" />
+            <busStation bname="dheera" bdistance="dheera" />
+            <map>
+                <latitude>dheera</latitude>
+                <longitude>dheera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>dheera</phone>
+            <mobile>dheera</mobile>
+            <email>dheera</email>
+            <fax>dheera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4301</id>
+        <name>dheera</name>
+        <categories>
+            <category>dheera</category>
+        </categories>
+        <description>dheera</description>
+        <website>dheera</website>
+        <overview>dheera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>dheera</line1>
+<line2>dheera</line2>
+<line3>dheera</line3>
+<town>dheera</town>
+<district>dheera</district>
+<city>dheera</city>
+<state>dheera</state>
+<pincode>dheera</pincode>
+</address>
+            <trainStation tname="dheera" tdistance="dheera" />
+            <busStation bname="dheera" bdistance="dheera" />
+            <map>
+                <latitude>dheera</latitude>
+                <longitude>dheera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>dheera</phone>
+            <mobile>dheera</mobile>
+            <email>dheera</email>
+            <fax>dheera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4330</id>
+        <name>veera</name>
+        <categories>
+            <category>veera</category>
+        </categories>
+        <description>veera</description>
+        <website>veera</website>
+        <overview>veera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>veera</line1>
+<line2>veera</line2>
+<line3>veera</line3>
+<town>veera</town>
+<district>veera</district>
+<city>veera</city>
+<state>veera</state>
+<pincode>veera</pincode>
+</address>
+            <trainStation tname="veera" tdistance="veera" />
+            <busStation bname="veera" bdistance="veera" />
+            <map>
+                <latitude>veera</latitude>
+                <longitude>veera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>veera</phone>
+            <mobile>veera</mobile>
+            <email>veera</email>
+            <fax>veera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4313</id>
+        <name>Sarah</name>
+        <categories>
+            <category>Sarah</category>
+        </categories>
+        <description>Sarah</description>
+        <website>Sarah</website>
+        <overview>Sarah</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Sarah</line1>
+<line2>Sarah</line2>
+<line3>Sarah</line3>
+<town>Sarah</town>
+<district>Sarah</district>
+<city>Sarah</city>
+<state>Sarah</state>
+<pincode>Sarah</pincode>
+</address>
+            <trainStation tname="Sarah" tdistance="Sarah" />
+            <busStation bname="Sarah" bdistance="Sarah" />
+            <map>
+                <latitude>Sarah</latitude>
+                <longitude>Sarah</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Sarah</phone>
+            <mobile>Sarah</mobile>
+            <email>Sarah</email>
+            <fax>Sarah</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4329</id>
+        <name>Meera</name>
+        <categories>
+            <category>Meera</category>
+        </categories>
+        <description>Meera</description>
+        <website>Meera</website>
+        <overview>Meera</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Meera</line1>
+<line2>Meera</line2>
+<line3>Meera</line3>
+<town>Meera</town>
+<district>Meera</district>
+<city>Meera</city>
+<state>Meera</state>
+<pincode>Meera</pincode>
+</address>
+            <trainStation tname="Meera" tdistance="Meera" />
+            <busStation bname="Meera" bdistance="Meera" />
+            <map>
+                <latitude>Meera</latitude>
+                <longitude>Meera</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Meera</phone>
+            <mobile>Meera</mobile>
+            <email>Meera</email>
+            <fax>Meera</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4380</id>
+        <name>palai</name>
+        <categories>
+            <category>palai</category>
+        </categories>
+        <description>palai</description>
+        <website>palai</website>
+        <overview>palai</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>palai</line1>
+<line2>palai</line2>
+<line3>palai</line3>
+<town>palai</town>
+<district>palai</district>
+<city>palai</city>
+<state>palai</state>
+<pincode>palai</pincode>
+</address>
+            <trainStation tname="palai" tdistance="palai" />
+            <busStation bname="palai" bdistance="palai" />
+            <map>
+                <latitude>palai</latitude>
+                <longitude>palai</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>palai</phone>
+            <mobile>palai</mobile>
+            <email>palai</email>
+            <fax>palai</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4381</id>
+        <name>admin</name>
+        <categories>
+            <category>admin</category>
+        </categories>
+        <description>admin</description>
+        <website>admin</website>
+        <overview>admin</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>admin</line1>
+<line2>admin</line2>
+<line3>admin</line3>
+<town>admin</town>
+<district>admin</district>
+<city>admin</city>
+<state>admin</state>
+<pincode>admin</pincode>
+</address>
+            <trainStation tname="admin" tdistance="admin" />
+            <busStation bname="admin" bdistance="admin" />
+            <map>
+                <latitude>admin</latitude>
+                <longitude>admin</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>admin</phone>
+            <mobile>admin</mobile>
+            <email>admin</email>
+            <fax>admin</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+            <specialization>admin</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+            <service name="admin" category="admin" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+            <doctor id="admin" name="admin" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4382</id>
+        <name>vinfra</name>
+        <categories>
+            <category>vinfra</category>
+        </categories>
+        <description>vinfra</description>
+        <website>vinfra</website>
+        <overview>vinfra</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>vinfra</line1>
+<line2>vinfra</line2>
+<line3>vinfra</line3>
+<town>vinfra</town>
+<district>vinfra</district>
+<city>vinfra</city>
+<state>vinfra</state>
+<pincode>vinfra</pincode>
+</address>
+            <trainStation tname="vinfra" tdistance="vinfra" />
+            <busStation bname="vinfra" bdistance="vinfra" />
+            <map>
+                <latitude>vinfra</latitude>
+                <longitude>vinfra</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>vinfra</phone>
+            <mobile>vinfra</mobile>
+            <email>vinfra</email>
+            <fax>vinfra</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4389</id>
+        <name>RRRR</name>
+        <categories>
+            <category>RRRR</category>
+        </categories>
+        <description>RRRR</description>
+        <website>RRRR</website>
+        <overview>RRRR</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>RRRR</line1>
+<line2>RRRR</line2>
+<line3>RRRR</line3>
+<town>RRRR</town>
+<district>RRRR</district>
+<city>RRRR</city>
+<state>RRRR</state>
+<pincode>RRRR</pincode>
+</address>
+            <trainStation tname="RRRR" tdistance="RRRR" />
+            <busStation bname="RRRR" bdistance="RRRR" />
+            <map>
+                <latitude>RRRR</latitude>
+                <longitude>RRRR</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>RRRR</phone>
+            <mobile>RRRR</mobile>
+            <email>RRRR</email>
+            <fax>RRRR</fax>
+        </contactInfo>
+        <specializations>
+            <specialization/>
+            <specialization>RRRR</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+            <service name="RRRR" category="RRRR" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+            <doctor id="RRRR" name="RRRR" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4418</id>
+        <name>healthcare</name>
+        <categories>
+            <category>healthcare</category>
+        </categories>
+        <description>healthcare</description>
+        <website>healthcare</website>
+        <overview>healthcare</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>healthcare</line1>
+<line2>healthcare</line2>
+<line3>healthcare</line3>
+<town>healthcare</town>
+<district>healthcare</district>
+<city>healthcare</city>
+<state>healthcare</state>
+<pincode>healthcare</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>healthcare</latitude>
+                <longitude>healthcare</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>healthcare</phone>
+            <mobile>healthcare</mobile>
+            <email>healthcare</email>
+            <fax>healthcare</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>healthcare</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4419</id>
+        <name>clinic</name>
+        <categories>
+            <category>clinic</category>
+        </categories>
+        <description>clinic</description>
+        <website>clinic</website>
+        <overview>clinic</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>clinic</line1>
+<line2>clinic</line2>
+<line3>clinic</line3>
+<town>clinic</town>
+<district>clinic</district>
+<city>clinic</city>
+<state>clinic</state>
+<pincode>clinic</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>clinic</latitude>
+                <longitude>clinic</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>clinic</phone>
+            <mobile>clinic</mobile>
+            <email>clinic</email>
+            <fax>clinic</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>clinic</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4420</id>
+        <name>lab</name>
+        <categories>
+            <category>lab</category>
+        </categories>
+        <description>lab</description>
+        <website>lab</website>
+        <overview>lab</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>lab</line1>
+<line2>lab</line2>
+<line3>lab</line3>
+<town>lab</town>
+<district>lab</district>
+<city>lab</city>
+<state>lab</state>
+<pincode>lab</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>lab</latitude>
+                <longitude>lab</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>lab</phone>
+            <mobile>lab</mobile>
+            <email>lab</email>
+            <fax>lab</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>lab</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4421</id>
+        <name>pharmacy</name>
+        <categories>
+            <category>pharmacy</category>
+        </categories>
+        <description>pharmacy</description>
+        <website>pharmacy</website>
+        <overview>pharmacy</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>pharmacy</line1>
+<line2>pharmacy</line2>
+<line3>pharmacy</line3>
+<town>pharmacy</town>
+<district>pharmacy</district>
+<city>pharmacy</city>
+<state>pharmacy</state>
+<pincode>pharmacy</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>pharmacy</latitude>
+                <longitude>pharmacy</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>pharmacy</phone>
+            <mobile>pharmacy</mobile>
+            <email>pharmacy</email>
+            <fax>pharmacy</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>pharmacy</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4422</id>
+        <name>mubai</name>
+        <categories>
+            <category>mubai</category>
+        </categories>
+        <description>mubai</description>
+        <website>mubai</website>
+        <overview>mubai</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>mubai</line1>
+<line2>mubai</line2>
+<line3>mubai</line3>
+<town>mubai</town>
+<district>mubai</district>
+<city>mubai</city>
+<state>mubai</state>
+<pincode>mubai</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>mubai</latitude>
+                <longitude>mubai</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>mubai</phone>
+            <mobile>mubai</mobile>
+            <email>mubai</email>
+            <fax>mubai</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>mubai</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4423</id>
+        <name>thaillannd</name>
+        <categories>
+            <category>thaillannd</category>
+        </categories>
+        <description>thaillannd</description>
+        <website>thaillannd</website>
+        <overview>thaillannd</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>thaillannd</line1>
+<line2>thaillannd</line2>
+<line3>thaillannd</line3>
+<town>thaillannd</town>
+<district>thaillannd</district>
+<city>thaillannd</city>
+<state>thaillannd</state>
+<pincode>thaillannd</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>thaillannd</latitude>
+                <longitude>thaillannd</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>thaillannd</phone>
+            <mobile>thaillannd</mobile>
+            <email>thaillannd</email>
+            <fax>thaillannd</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>thaillannd</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4424</id>
+        <name>clean</name>
+        <categories>
+            <category>clean</category>
+        </categories>
+        <description>clean</description>
+        <website>clean</website>
+        <overview>clean</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>clean</line1>
+<line2>clean</line2>
+<line3>clean</line3>
+<town>clean</town>
+<district>clean</district>
+<city>clean</city>
+<state>clean</state>
+<pincode>clean</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>clean</latitude>
+                <longitude>clean</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>clean</phone>
+            <mobile>clean</mobile>
+            <email>clean</email>
+            <fax>clean</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>clean</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <active/>
+        <id>4425</id>
+        <name>Saferty</name>
+        <categories>
+            <category>Saferty</category>
+        </categories>
+        <description>Saferty</description>
+        <website>Saferty</website>
+        <overview>Saferty</overview>
+        <location type="" place="" distance="">
+            <address>
+<line1>Saferty</line1>
+<line2>Saferty</line2>
+<line3>Saferty</line3>
+<town>Saferty</town>
+<district>Saferty</district>
+<city>Saferty</city>
+<state>Saferty</state>
+<pincode>Saferty</pincode>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude>Saferty</latitude>
+                <longitude>Saferty</longitude>
+            </map>
+        </location>
+        <contactInfo>
+            <name/>
+            <phone>Saferty</phone>
+            <mobile>Saferty</mobile>
+            <email>Saferty</email>
+            <fax>Saferty</fax>
+        </contactInfo>
+        <specializations>
+            <specialization>Saferty</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+        </doctors>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>sneha</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>chennai</line1>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>123</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>vithun</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>124</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>qwerrttyyuuyiuouipopo</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>128</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>qwretyyy</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>127</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+            <specialization>Denisha</specialization>
+        </specializations>
+        <services>
+            <service name="" category="" type="" />
+            <service name="Denisha" category="Denisha" type="Denisha" />
+        </services>
+        <doctors>
+            <doctor id="" name="" />
+            <doctor id="Denisha" name="Denisha" />
+        </doctors>
+        <name>Denisha</name>
+        <categories>
+            <category>Denisha</category>
+        </categories>
+        <description>Denisha</description>
+        <website>Denisha</website>
+        <overview>Denisha</overview>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1>Denisha</line1>
+<line2/>
+<line3>Denisha</line3>
+<town/>
+<district/>
+<city/>
+<state>Denisha</state>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>126</id>
+    </clinicInfo>
+    <clinicInfo active="true">
+        <specializations>
+            <specialization/>
+        </specializations>
+        <services>
+            <service/>
+        </services>
+        <doctors>
+            <doctor/>
+        </doctors>
+        <name>pranavsssssssss</name>
+        <categories>
+            <category/>
+        </categories>
+        <description/>
+        <website/>
+        <overview/>
+        <contactInfo>
+            <phone/>
+            <mobile/>
+            <email/>
+            <fax/>
+        </contactInfo>
+        <location>
+            <address>
+<line1/>
+<line2/>
+<line3/>
+<town/>
+<district/>
+<city/>
+<state/>
+<pincode/>
+</address>
+            <trainStation tname="" tdistance="" />
+            <busStation bname="" bdistance="" />
+            <map>
+                <latitude/>
+                <longitude/>
+            </map>
+        </location>
+        <id>125</id>
+    </clinicInfo>
+</data>

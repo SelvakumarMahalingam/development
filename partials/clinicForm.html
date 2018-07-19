@@ -1,0 +1,289 @@
+<md-card flex-gt-sm="80" ng-cloak="">
+    <md-toolbar>
+        <div class="md-toolbar-tools">
+            <h2>
+                <span>ClinicInfo</span>
+            </h2>
+            <span flex=""/>
+            <md-button ng-disabled="!userForm.$valid" class="md-raised" ng-click="postClinicData(logoImg,galleryImgs)" aria-label="Save">
+                    Save
+                </md-button>
+            <md-button class="md-raised" aria-label="cancel" ui-sref="clinicInfo">
+                    Cancel
+                </md-button>
+        </div>
+    </md-toolbar>
+    <md-content layout-padding="">
+        <form name="userForm" class="md-inline-form">
+            <div layout="row" layout-xs="column" layout-wrap="">
+                <div flex-sm="40" flex-gt-sm="20" layout-align="center-center" layout-padding="">
+                    <div ng-hide="logoImg || clinicInfo.logo != '' " ngf-drop="" ngf-select="" ngf-max-size="1MB" ng-model="logoImg" name="file" class="drop-box" ngf-drag-over-class="'dragover'" ngf-allow-dir="true" accept="image/*" ngf-pattern="'image/*'">
+                            Drop images here or click to upload
+                        </div>
+                    <img ng-show="userForm.file.$valid" ngf-src="logoImg"/>
+                    <img ng-if="clinicInfo.logo != '' " ng-src="./homeDownload?clinicImg/{{clinicInfo.logo}}"/>
+                    <i ng-show="userForm.file.$error.maxSize">File too large 
+      {{errorFiles[0].size / 1000000|number:1}}MB: max 1MB</i>
+                    <md-button class="md-raised md-accent" ng-click="empty()" ng-show="logoImg || clinicInfo.logo != '' ">Remove</md-button>
+                    <span ng-show="logoImg.progress &gt;= 0">
+                        <div ng-bind="logoImg.progress + '%'"/>
+                    </span>
+                    <span ng-show="logoImg.result">Upload Successful</span>
+                    <span class="err" ng-show="errorMsg">{{errorMsg}}</span>
+                </div>
+                <div flex-sm="60" flex-gt-sm="40" layout-padding="">
+                    <md-input-container class="md-block" flex-gt-xs="">
+                        <label>Clinic Name</label>
+                        <input ng-model="clinicInfo.name" required="" name="name"/>
+                        <div ng-messages="userForm.name.$error">
+                            <div ng-message="required">Name is required.</div>
+                        </div>
+                    </md-input-container>
+                    <md-input-container class="md-block" flex-gt-xs="">
+                        <label>Category</label>
+                        <input ng-model="clinicInfo.categories.category"/>
+                    </md-input-container>
+                </div>
+                <div flex-sm="100" flex-gt-sm="40" layout-padding="">
+                    <md-input-container class="md-block">
+                        <label>Overview</label>
+                        <textarea ng-model="clinicInfo.overview" columns="1" md-maxlength="150" rows="4"/>
+                    </md-input-container>
+                </div>
+            </div>
+            <h3>Contact Information</h3>
+            <md-divider/>
+            <div layout="row" layout-xs="column" layout-wrap="" layout-padding="">
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Phone No</label>
+                    <md-icon class="material-icons">contact_phone</md-icon>
+                    <input ng-model="clinicInfo.contactInfo.phone"/>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Mobile No</label>
+                    <md-icon class="material-icons">phone</md-icon>
+                    <input name="mobile" minlength="10" maxlength="10" ng-pattern="/^[0-9]{10}$/" ng-model="clinicInfo.contactInfo.mobile"/>
+                    <div ng-messages="userForm.mobile.$error">
+                        <div ng-message-exp="['minlength', 'maxlength', 'pattern']">
+                                Please Enter Valid Mobile Number
+                            </div>
+                    </div>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Fax</label>
+                    <md-icon>
+                        <i class="fa fa-fax fa-1x"/>
+                    </md-icon>
+                    <input ng-model="clinicInfo.contactInfo.fax"/>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Website</label>
+                    <md-icon>
+                        <i class="fa fa-globe fa-1x"/>
+                    </md-icon>
+                    <input ng-model="clinicInfo.website"/>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Email</label>
+                    <md-icon class="material-icons">email</md-icon>
+                    <input name="email" ng-pattern="/^.+@.+\..+$/" ng-model="clinicInfo.contactInfo.email"/>
+                    <div ng-messages="userForm.email.$error" ng-hide="showHints">
+                        <div ng-message="pattern">
+                                Please Enter Valid Email Address
+                            </div>
+                    </div>
+                </md-input-container>
+            </div>
+            <h3>Address Information</h3>
+            <md-divider/>
+            <div layout="row" layout-xs="column" layout-wrap="" layout-padding="">
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Line 1</label>
+                    <input ng-model="clinicInfo.location.address.line1"/>
+                    <div class="hint">Flat/House No, Floor, Building</div>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Line 2</label>
+                    <input ng-model="clinicInfo.location.address.line2"/>
+                    <div class="hint">Colony/Society, Street</div>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Line 3</label>
+                    <input ng-model="clinicInfo.location.address.line3"/>
+                    <div class="hint">Locality/Area</div>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Town/City</label>
+                    <input ng-model="clinicInfo.location.address.city"/>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>District</label>
+                    <input ng-model="clinicInfo.location.address.district"/>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>State</label>
+                    <input ng-model="location.address.state"/>
+                </md-input-container>
+                <md-input-container class="md-block" flex-sm="50" flex-gt-sm="33">
+                    <label>Pincode</label>
+                    <input ng-model="clinicInfo.location.address.pincode"/>
+                </md-input-container>
+            </div>
+            <h3>Location Information</h3>
+            <md-divider/>
+            <div layout="row" layout-xs="column" layout-wrap="" layout-padding="">
+                <div layout="row" flex-sm="100" flex-gt-sm="50" layout-wrap="">
+                    <md-input-container class="md-block" flex="70">
+                        <label>Bus Station Name</label>
+                        <md-icon class="material-icon">directions_bus</md-icon>
+                        <input ng-model="clinicInfo.location.busStation._bname"/>
+                    </md-input-container>
+                    <md-input-container class="md-block" flex="30">
+                        <label>Distance (Km)</label>
+                        <input ng-model="clinicInfo.location.busStation._bdistance"/>
+                    </md-input-container>
+                    <md-input-container class="md-block" flex="70">
+                        <label>Train Station Name</label>
+                        <md-icon class="material-icon">directions_train</md-icon>
+                        <input ng-model="clinicInfo.location.trainStation._tname"/>
+                    </md-input-container>
+                    <md-input-container class="md-block" flex="30">
+                        <label>Distance (Km)</label>
+                        <input ng-model="clinicInfo.location.trainStation._tdistance"/>
+                    </md-input-container>
+                </div>
+                <div layout="column" flex-sm="100" flex-gt-sm="50">
+                    <md-input-container class="md-block">
+                        <label>Latitude</label>
+                        <md-icon class="material-icon">edit_location</md-icon>
+                        <input ng-model="clinicInfo.location.map.latitude"/>
+                    </md-input-container>
+                    <md-input-container class="md-block">
+                        <label>Longitude</label>
+                        <md-icon class="material-icon">edit_location</md-icon>
+                        <input ng-model="clinicInfo.location.map.longitude"/>
+                    </md-input-container>
+                </div>
+            </div>
+            <h3>Specializations</h3>
+            <md-divider/>
+            <md-chips layout-padding="" readonly="false" ng-model="clinicInfo.specializations.specialization" placeholder="Type and press enter" delete-button-label="Remove Tag" delete-hint="Press delete to remove tag" secondary-placeholder="Add new Specialization and press enter">
+                <md-chip-template>{{$chip}}</md-chip-template>
+            </md-chips>
+            <h3>Services</h3>
+            <md-divider/>
+            <md-chips layout-padding="" readonly="false" ng-model="clinicInfo.services.service" placeholder="Type and press enter" delete-button-label="Remove Tag" delete-hint="Press delete to remove tag" secondary-placeholder="Type and press enter">
+                <md-chip-template>{{$chip}}</md-chip-template>
+            </md-chips>
+            <h3>Doctors</h3>
+            <md-divider/>
+            <div layout="row" layout-xs="column" layout-wrap="" layout-padding="">
+                <div flex="" flex-gt-sm="50" layout-padding="">
+                    <md-tabs md-dynamic-height="" md-border-bottom="">
+                        <md-tab label="Search">
+                            <md-content class="md-padding">
+                                <md-autocomplete ng-disabled="isDisabled" md-no-cache="noCache" md-selected-item="selectedItem" md-search-text-change="searchTextChange(searchText)" md-search-text="searchText" md-selected-item-change="selectedItemChange(item)" md-items="item in querySearch(searchText)" md-item-text="item.name" md-min-length="0" placeholder="Search Doctors" md-menu-class="autocomplete-custom-template">
+                                    <md-item-template>
+                                        <span class="item-title">
+                                            <img ng-if="item.logo != '' " ng-src="./homeDownload?doctorImg/{{item.logo}}" class="md-avatar" alt="{{item.name}}" width="20"/>
+                                            <img ng-if="item.logo == '' " ng-src="./homeDownload?doctorImg/default-doctor.png" class="md-avatar" alt="{{item.name}}" width="20"/>
+                                            <span>
+                                                <strong>{{item.name}}</strong>
+                                            </span>
+                                        </span>
+                                        <span class="item-metadata">
+                                            <span class="item-metastat">
+                                                             {{item.profession_summary}}
+                                                        </span>
+                                        </span>
+                                    </md-item-template>
+                                    <md-not-found>
+                                                No Doctors matching "{{searchText}}" were found.
+                                                <a href="">Create a new one!</a>
+                                    </md-not-found>
+                                </md-autocomplete>
+                                <br/>
+                                <div class="well" ng-if="selected == true">
+                                    <md-card>
+                                        <md-card-title layout-xs="column">
+                                            <md-card-title-media>
+                                                <div class="md-media-sm card-media">
+                                                    <img ng-if="selectedDoctor.logo != ''" ng-src="./homeDownload?doctorImg/{{selectedDoctor.logo}}"/>
+                                                    <img ng-if="selectedDoctor.logo == ''" ng-src="./homeDownload?doctorImg/default-doctor.png"/>
+                                                </div>
+                                            </md-card-title-media>
+                                            <md-card-title-text>
+                                                <span class="md-headline">{{selectedDoctor.name}}</span>
+                                                <span class="md-subhead">
+                                                        {{selectedDoctor.profession_summary}} {{selectedDoctor.gender}} 
+                                                        </span>
+                                                <span>
+                                                    <md-button flex="20" class="md-raised md-primary" ng-click="addDoctor(selectedDoctor.id,selectedDoctor.name, 'update')">Add</md-button>
+                                                </span>
+                                            </md-card-title-text>
+                                        </md-card-title>
+                                    </md-card>
+                                </div>
+                            </md-content>
+                        </md-tab>
+                        <md-tab label="Add New">
+                            <md-content class="md-padding">
+                                <div layout="row" layout-xs="column">
+                                    <md-input-container class="md-block">
+                                        <label>Doctor Name</label>
+                                        <input ng-model="d_name"/>
+                                    </md-input-container>
+                                    <div>
+                                        <md-button class="md-raised md-primary" ng-click="addDoctor('', d_name, 'addnew')">Create</md-button>
+                                    </div>
+                                </div>
+                                <div ng-show="msg">
+                                    <p>{{d_name}} has been created successfully.</p>
+                                </div>
+                            </md-content>
+                        </md-tab>
+                    </md-tabs>
+                </div>
+                <div flex="" flex-gt-sm="50" layout-padding="">
+                    <div class="well doctorWell" layout-padding="">
+                        <div class="col-md-6 col-xs-12" ng-repeat="x in clinicInfo.doctors.doctor track by $index" ng-if="x._id !=''">
+                            <md-card>
+                                <md-card-content>{{x._id}} {{x._name}}
+                                        <md-icon ng-click="removeDoctor($index)" class="material-icon">delete</md-icon>
+                                </md-card-content>
+                            </md-card>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <h3>Images</h3>
+            <md-divider/>
+            <div layout="column" layout-padding="">
+                <div>
+                    <md-button ng-hide="galleryImgs || clinicInfo.images.image.length != 1" ngf-select="" ngf-max-size="1MB" ngf-multiple="true" ngf-allow-dir="true" name="images" class="md-raised" ng-model="galleryImgs" accept="image/*" ngf-pattern="'image/*'" ngf-model-invalid="errorImages">Click here to Upload Images</md-button>
+                    <i ng-show="userForm.images.$error.maxSize">File too large 
+                        {{errorFiles[0].size / 1000000|number:1}}MB: max 1M</i>
+                    <md-button class="md-raised md-accent" ng-click="emptygal()" ng-show="galleryImgs || clinicInfo.images.image.length != 1">Remove All</md-button>
+                </div>
+                <div layout="row" layout-wrap="" layout-padding="">
+                    <div ng-hide="galleryImgs" ng-repeat="i in clinicInfo.images.image" flex="20" flex-xs="50" ng-if="i != '' ">
+                        <img ng-src="./homeDownload?clinicImg/{{i}}" width="150" height="150"/>
+                    </div>
+                    <div ng-hide="clinicInfo.images.image.length &gt; 1" ng-repeat="i in galleryImgs" flex="20" flex-xs="50">
+                        <img ngf-src="i" width="150" height="150"/>
+                    </div>
+                </div>
+            </div>
+            <div layout="row" layout-align="center center">
+                <md-button ng-disabled="!userForm.$valid" class="md-raised md-primary" layout-padding="" ng-click="postClinicData(logoImg,galleryImgs)">Save</md-button>
+                <md-button class="md-raised md-warn" ui-sref="clinicInfo">Cancel</md-button>
+            </div>
+        </form>
+    </md-content>
+    <md-checkbox ng-model="devPurpose" aria-label="Developement Purpose">
+            For Developement Purpose
+          </md-checkbox>
+    <div ng-show="devPurpose">
+        <pre>  {{clinicInfo | json}}</pre>
+    </div>
+</md-card>

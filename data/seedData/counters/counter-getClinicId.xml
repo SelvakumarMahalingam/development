@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<counter>
+    <key>getClinicId</key>
+    <initialval>1</initialval>
+    <currentval>1</currentval>
+</counter>

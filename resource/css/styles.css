@@ -1,0 +1,124 @@
+.spinner {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+    transform: translateY(-50%);
+    z-index: 999;
+}
+
+.remove {
+    background: #C76868;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 21px;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    padding: 4px 9px;
+    vertical-align: top;
+    line-height: 100%;
+}
+
+.drop-box {
+    background: #F8F8F8;
+    border: 5px dashed #DDD;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+.dragover {
+    border: 5px dashed blue;
+}
+
+.doctorWell {
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+.hint {
+    /* Position the hint */
+    position: absolute;
+    /*    left: 2px;*/
+    right: auto;
+    bottom: 6px;
+    /* Copy styles from ng-messages */
+    font-size: 12px;
+    line-height: 14px;
+    transition: all 0.3s cubic-bezier(0.55, 0, 0.55, 0.2);
+    /* Set our own color */
+    color: grey;
+}
+
+.hint.ng-hide,
+.hint.ng-enter,
+.hint.ng-leave.ng-leave-active {
+    bottom: 26px;
+    opacity: 0;
+}
+
+.hint.ng-leave,
+.hint.ng-enter.ng-enter-active {
+    bottom: 7px;
+    opacity: 1;
+}
+body
+{
+    overflow-x: initial !important;
+  overflow-y: initial !important;
+}
+.removestyle {
+    list-style-type: none;
+}
+
+#map_canvas {
+    width: 100%;
+    margin: 0px;
+}
+
+
+.angular-google-map-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+.slick-slide {
+    outline: none !important;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-family: FontAwesome;
+    font-size: 30px;
+    line-height: 1;
+    color: black;
+    opacity: 0.75;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev:before {
+    content: "\f053";
+}
+
+[dir="rtl"] .slick-prev:before {
+    content: "\f054";
+}
+
+[dir="rtl"] .slick-next {
+    left: -10px;
+    top: 70px;
+    right: auto;
+}
+
+.slick-next:before {
+    content: "\f054";
+}
+
+[dir="rtl"] .slick-next:before {
+    content: "\f053";
+}

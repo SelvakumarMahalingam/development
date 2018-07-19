@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div>
+    <div ng-if="clinicInfo.overview != '' ">
+        <h3>Overview</h3>
+        <p>{{clinicInfo.overview}}</p>
+    </div>
+    <div ng-if="clinicInfo.services.service[0] != '' ">
+        <h3>Services</h3>
+        <md-divider/>
+        <div ng-include="" src="makeurl+ 'partials/detailedview/_services.xhtml'"/>
+    </div>
+    <div ng-if="clinicInfo.specializations.specialization[0] != '' ">
+        <h3>Specialization</h3>
+        <md-divider/>
+        <div ng-include="" src="makeurl+ 'partials/detailedview/_specializations.xhtml'"/>
+    </div>
+    <div ng-if="clinicInfo.doctors.doctor.length &gt; 1">
+        <h3>Doctors</h3>
+        <md-divider/>
+        <div ng-include="" src="makeurl+ 'partials/detailedview/_doctors.xhtml'"/>
+    </div>
+    <div ng-if="clinicInfo.contactInfo.mobile != '' ">
+        <h3>Contact Information</h3>
+        <md-divider/>
+        <div ng-include="" src="makeurl+ 'partials/detailedview/_contacts.xhtml'"/>
+    </div>
+</div>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<appInfo>
+    <appId>HC47</appId>
+    <appName>Clinic Management</appName>
+    <module>Profiles</module>
+    <ActiveStatus/>
+    <version>1.0.23</version>
+    <overview/>
+    <description/>
+    <smallImage/>
+    <largeImage/>
+    <themes-support>
+        <theme id="AdminLTE-master">
+            <content layout="1-0">
+                <fragment fragmentId="prjmgmt" type="xform" loc="/clinicInfo" src="clinicInfo.xhtml"/>
+            </content>
+        </theme>
+    </themes-support>
+    <price>
+        <subscriptionCost/>
+        <transactionUnit/>
+        <transactionRate/>
+    </price>
+    <screenShots>
+        <screenShot/>
+        <screenShot/>
+        <screenShot/>
+    </screenShots>
+    <videos>
+        <video/>
+        <video/>
+        <video/>
+    </videos>
+</appInfo>

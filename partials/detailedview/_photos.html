@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<div layout="row" layout-align="center center" layout-padding="">
+    <div flex=""/>
+    <div flex="90" flex-xs="100">
+        <slick class="smallslider" settings="slickConfigsmall" ng-if="slickConfigsmallLoaded" layout-padding="">
+            <img ng-if="i != '' " ng-repeat="i in clinicInfo.images.image" class="img-responsive" ng-src="./homeDownload?clinicImg/{{i}}" layout-padding=""/>
+        </slick>
+        <md-divider/>
+        <slick class="slider" settings="slickConfig" ng-if="slickConfigLoaded" layout-padding="">
+            <img ng-if="i != '' " ng-repeat="i in clinicInfo.images.image" class="img-responsive" ng-src="./homeDownload?clinicImg/{{i}}"/>
+        </slick>
+    </div>
+    <div flex=""/>
+</div>

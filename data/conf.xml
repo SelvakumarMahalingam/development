@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Data>
+    <pageSize>10</pageSize>
+    <item>
+        <pageSize value="20">20</pageSize>
+        <pageSize value="40">40</pageSize>
+        <pageSize value="60">60</pageSize>
+    </item>
+</Data>

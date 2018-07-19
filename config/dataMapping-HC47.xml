@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataMapping>
+    <app id="HC47" name="clinicInfo">
+        <data key="clinicInfo">
+            <directory platform="true" solution="false" key="true" others="clinicInfo"/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+        <data key="clinicImg">
+            <directory platform="true" solution="false" key="false" others="clinicInfo/images"/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+        <data key="clinicInfoArchive">
+            <directory platform="true" solution="true" key="true" others=""/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+        <data key="clinicInfoUploadHistory">
+            <directory platform="true" solution="true" key="true" others=""/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+        <data key="clinicInfoCSV">
+            <directory platform="true" solution="true" key="true" others=""/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+        <data key="counters">
+            <directory platform="true" solution="false" key="true" others=""/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+        <data key="profileStatusInfo">
+            <directory platform="true" solution="false" key="true" others=""/>
+            <log-transaction enable="false">
+                <appId/>
+                <appName/>
+                <titleLink/>
+                <title/>
+                <description/>
+                <param1/>
+                <param2/>
+                <param3/>
+            </log-transaction>
+        </data>
+    </app>
+</dataMapping>

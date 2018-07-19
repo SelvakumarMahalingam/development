@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requestMapping>
+    <app appId="HC47" name="clinicInfo"/>
+    <actions>
+        <action name="list">
+            <app appId="HC47" name="clinicInfo"/>
+            <pattern>clinicInfo</pattern>
+            <label>Manage Clinics</label>
+        </action>
+    </actions>
+</requestMapping>

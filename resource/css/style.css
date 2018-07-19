@@ -1,0 +1,41 @@
+.spinner
+{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%);
+    transform: translateY(-50%);
+    z-index:999;
+}
+
+
+/** Fix for pop up **/
+
+md-data-table-pagination > div:nth-child(1) > .label {
+    margin: 0 !important;
+    }
+    
+    md-data-table-pagination > div:nth-child(1) > md-select {
+    display: none;
+}
+
+
+/* button recolor */
+.nav-pills > li.active > a, .btn-primary {
+  background-color: #6C6C6C !important;
+ 
+  border-color: #6C6C6C !important;
+  border-radius: 25px; 
+}
+body
+{
+    overflow-x: initial !important;
+  overflow-y: initial !important;
+}
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+

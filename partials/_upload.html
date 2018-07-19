@@ -1,0 +1,99 @@
+<md-content class="md-padding">
+    <div ng-controller="templateCtrl">
+        <md-content>
+            <section layout="row" layout-phone="column" layout-align="center center" layout-padding="">
+                <md-button class="md-raised md-primary" target="_self" ng-click="callDownload()" data-toggle="tooltip" title="Download Sample Template">
+                    <md-icon class="material-icon">file_download</md-icon>
+                    Download Sample Template
+                    <md-tooltip>Click here to Download Sample Template. Fill it up and Upload !!!</md-tooltip>
+                </md-button>
+                <md-button type="file" ngf-select="uploadFiles($file, $invalidFiles)" accept=".csv" ngf-max-height="1000" ngf-max-size="1MB" class="md-raised md-primary" data-toggle="tooltip" title="Upload .csv file">
+                    <md-icon class="material-icon">file_upload</md-icon>
+                     Upload Template
+                     <md-tooltip>Click here to Upload Template</md-tooltip>
+                </md-button>
+            </section>
+            <br/> File:
+                <div style="font:smaller"> {{f.name}} {{errFile.name}} {{errFile.$error}} {{errFile.$errorParam}}
+                    <span class="progress" ng-show="f.progress &gt;= 0">
+                    <div style="width:{{f.progress}}%" ng-bind="f.progress + '%'"/>
+                </span>
+            </div>
+                {{errorMsg}}
+      </md-content>
+        <section layout="column" layout-xs="column" ng-if="showPostData">
+            <section flex="" layout-align="start center">
+                <md-data-table-pagination md-page="query.page" md-limit="query.limit" md-total="{{csvlength}}"/>
+            </section>
+            <md-data-table-container>
+                <table md-data-table="" class="md-primary" md-progress="deferred">
+                    <thead md-order="query.order" md-trigger="onorderchange">
+                        <tr>
+                            <th name="Action"/>
+                            <th order-by="name" name="Name"/>
+                            <th name="Category"/>
+                            <th name="Overview"/>
+                            <th name="Mobile"/>
+                            <th name="Email"/>
+                            <th name="LandLine"/>
+                            <th name="Latitude"/>
+                            <th name="Longitude"/>
+                            <th name="Line 1"/>
+                            <th name="Line 2"/>
+                            <th name="Line 3"/>
+                            <th name="Town"/>
+                            <th name="City"/>
+                            <th name="State"/>
+                            <th name="District"/>
+                            <th name="Pincode"/>
+                            <th name="Bus Details"/>
+                            <th name="Train Details"/>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr md-auto-select="" ng-repeat="data in formattedPosteddata track by $index| orderBy: query.order | limitTo: query.limit: (query.page - 1) * query.limit | filter : searchquery ">
+                            <td>
+                                <md-icon class="material-icon" ng-click="deletecsvrecord($index)">delete</md-icon>
+                            </td>
+                            <td>{{data.name}}</td>
+                            <td>{{data.categories.category}}</td>
+                            <td>{{data.overview}}</td>
+                            <td>{{data.contactInfo.mobile}}</td>
+                            <td>{{data.contactInfo.email}}</td>
+                            <td>{{data.contactInfo.phone}}</td>
+                            <td>{{data.location.map.latitude}}</td>
+                            <td>{{data.location.map.longitude}}</td>
+                            <td>{{data.location.address.line1}}</td>
+                            <td>{{data.location.address.line2}}</td>
+                            <td>{{data.location.address.line3}}</td>
+                            <td>{{data.location.address.town}}</td>
+                            <td>{{data.location.address.city}}</td>
+                            <td>{{data.location.address.district}}</td>
+                            <td>{{data.location.address.state}}</td>
+                            <td>{{data.location.address.pincode}}</td>
+                            <td>{{data.location.busStation._bname}} - {{data.location.busStation._bdistance}} </td>
+                            <td>{{data.location.trainStation._tname}} - {{data.location.trainStation._tdistance}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </md-data-table-container>
+            <section layout="row" layout-sm="column" layout-align="center center" layout-wrap="">
+                <md-button class="md-raised md-primary" ng-click="startSaving()">Save</md-button>
+                <md-button class="md-raised md-warn" ng-click="clearAll()">Cancel</md-button>
+            </section>
+        </section>
+        <md-checkbox ng-model="devPurpose" aria-label="Developement Purpose">
+            For Developement Purpose
+          </md-checkbox>
+        <div ng-show="devPurpose">
+            Uploaded File Format
+            <pre>
+             {{results  | json}}
+            </pre>
+            After Parsing :
+            <pre>
+                 {{formattedPosteddata  | json}}
+            </pre>
+        </div>
+    </div>
+</md-content>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<md-content class="md-padding" ng-controller="archiveCtrl">
+    <section layout="row" layout-xs="column">
+        <section flex="" layout-align="center center">
+            <md-input-container ng-show="!selected.length" md-no-float="" class="md-block left">
+                <md-icon>
+                    <i class="material-icons">search</i>
+                </md-icon>
+                <input type="text" ng-model="searchquery" placeholder="Search By id, name..."/>
+            </md-input-container>
+            <md-content ng-show="selected.length">
+                <div>{{selected.length}} {{selected.length &gt; 1 ? 'items' : 'item'}} selected</div>
+            </md-content>
+        </section>
+        <section flex="" layout-align="start center">
+            <md-data-table-pagination md-page="query.page" md-limit="query.limit" md-total="{{archiveDatasCount}}"/>
+        </section>
+    </section>
+    <md-data-table-container>
+        <table md-data-table="" class="md-primary" md-progress="deferred">
+            <thead md-order="query.order" md-trigger="onorderchange">
+                <tr>
+                    <th numeric="" order-by="id" name="Id"/>
+                    <th name="ClinicName"/>
+                    <th name="Date/Time"/>
+                    <th name="Archived By"/>
+                </tr>
+            </thead>
+            <tbody>
+                <tr md-auto-select="" ng-repeat="clinic in archiveDatas.clinicInfo | orderBy: query.order | limitTo: query.limit: (query.page - 1) * query.limit | filter : searchquery ">
+                    <td>{{clinic.id}}</td>
+                    <td>{{clinic.name}}</td>
+                    <td>{{clinic.archivedby._dateTime}}</td>
+                    <td>{{clinic.archivedby.__text}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </md-data-table-container>
+</md-content>

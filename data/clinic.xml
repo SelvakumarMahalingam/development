@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinicInfo>
+    <active/>
+    <id/>
+    <name/>
+    <logo/>
+    <categories>
+        <category/>
+    </categories>
+    <website/>
+    <overview/>
+    <description/>
+    <images>
+        <image size=""/>
+    </images>
+    <location type="" place="" distance="">
+        <address>
+            <line1/>
+            <line2/>
+            <line3/>
+            <town/>
+            <district/>
+            <city/>
+            <state/>
+            <pincode/>
+        </address>
+        <trainStation tname="" tdistance=""/>
+        <busStation bname="" bdistance=""/>
+        <map>
+            <latitude/>
+            <longitude/>
+        </map>
+    </location>
+    <contactInfo>
+        <phone/>
+        <mobile/>
+        <email/>
+        <fax/>
+    </contactInfo>
+    <specializations>
+        <specialization/>
+    </specializations>
+    <services>
+        <service name="" category="" type=""/>
+    </services>
+    <doctors>
+        <doctor id="" name=""/>
+    </doctors>
+</clinicInfo>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<md-content>
+    <md-list>
+        <md-list-item class="md-3-line" ng-repeat="doc in clinicInfo.doctors.doctor" ng-if="doc._name != '' ">
+            <img ng-src="./homeDownload?doctorImg/default-doctor.png" class="md-avatar" alt="{{doc._name}}"/>
+            <div class="md-list-item-text" layout="column">
+                <h3>{{ doc._name }}</h3>
+            </div>
+            <md-divider/>
+        </md-list-item>
+    </md-list>
+</md-content>

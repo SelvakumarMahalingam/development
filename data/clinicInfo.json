@@ -1,0 +1,63 @@
+{
+    "id": "",
+    "name": "",
+    "logo": "",
+    "images": {
+        "image": [
+           ""
+            ]
+    },
+    "categories": {
+        "category": ""
+    },
+    "website": "",
+    "overview": "",
+    "description": "",
+    "location": {
+        "address": {
+            "line1": "",
+            "line2": "",
+            "line3": "",
+            "town": "",
+            "district": "",
+            "city": "",
+            "state": "",
+            "pincode": ""
+        },
+        "trainStation": {
+            "_tname": "",
+            "_tdistance": ""
+        },
+        "busStation": {
+            "_bname": "",
+            "_bdistance": ""
+        },
+        "map": {
+            "latitude": "",
+            "longitude": ""
+        },
+        "_type": "",
+        "_place": "",
+        "_distance": ""
+    },
+    "contactInfo": {
+        "phone": "",
+        "mobile": "",
+        "email": "",
+        "fax": ""
+    },
+    "specializations": {
+        "specialization": [""]
+    },
+    "services": {
+        "service": [""]
+    },
+    "doctors": {
+        "doctor": [
+            {
+                "_id": "",
+                "_name": ""
+                }
+            ]
+    }
+}
